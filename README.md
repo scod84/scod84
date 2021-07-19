@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 -->
 
 
-## I am a Computational Physicist by Education
+## Computational Physicist by Education
+
+## Data Scientist by Passion
+
+## My beliefs and Values
+
+## Current Personal Projects
