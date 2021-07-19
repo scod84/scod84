@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 ## My beliefs and Values
 
 
-## Current Personal Projects
+## Technical Skills
+
+
+## My Current Personal Projects
 
 
 ## Data Scientist by Passion
