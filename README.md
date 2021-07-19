@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Daniele, a Data Scientist currently based in Zurich (Switzerland)
 
 <!--
+This is a comment
 **scod84/scod84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+DS: check out https://www.youtube.com/watch?v=KhGWbt1dAKQ
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## I am a Computational Physicist by Education
