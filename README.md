@@ -28,6 +28,8 @@ the passion to understand deeply,
 the desire to make things do their job,
 the availability to re-iterate the process towards perfection (resources allowing).
 
+I typically do not stop until my creations work and I am sure they run automatically and transparently.
+
 
 ## My Beliefs and Values
 
