@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My beliefs and Values
 
-## Computational Physicist by Education
+
+## Current Personal Projects
+
 
 ## Data Scientist by Passion
 
-## My beliefs and Values
 
-## Current Personal Projects
+## Computational Physicist by Education
+
