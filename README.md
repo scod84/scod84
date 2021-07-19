@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ## My Attitude
 I would call mine a "Understanding-based Pragmatic Approach".
 
-Nobody can know everything about anything.\
-However what matter is \
+Nobody can know everything about anything.
+However what matter is 
 - the will to discover new approaches, \
 - the passion to understand deeply, \
 - the desire to make things do their job, \
