@@ -1,4 +1,4 @@
-# Hi there 👋 I am Daniele, a Data Scientist based in Zurich (Switzerland)
+# Hi there 👋 I am Daniele, a Physicist (PhD) and Data Scientist based in Zurich (Switzerland)
 
 <!--
 This is a comment
