@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Philosophy, Beliefs and Values
+
 ## My Attitude
 I would call mine a "Understanding-based Pragmatic Approach".
 
@@ -33,8 +35,6 @@ However what matter is
 
 I typically do not stop until my creations work and I am sure they run automatically and transparently.
 
-
-## My Beliefs and Values
 
 
 ## Technical Skills
